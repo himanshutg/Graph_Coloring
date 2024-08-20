@@ -16,5 +16,5 @@ This project explores an algebraic approach to solving the NP-complete graph col
 To get started with this project, clone the repository and explore the codebase to understand the implementation details of the Gröbner basis algorithm and its applications in solving graph coloring problems.
 
 ```bash
-git clone https://github.com/yourusername/graph-coloring-algebraic-geometry.git
-cd graph-coloring-algebraic-geometry
+git clone https://github.com/himanshutg/Graph_Coloring.git
+cd graph_coloring
