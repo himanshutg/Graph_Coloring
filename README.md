@@ -13,8 +13,9 @@ This project explores an algebraic approach to solving the NP-complete graph col
 - **Sudoku Solver**: Uses graph coloring to solve puzzles like Sudoku by ensuring valid number placements.
 
 ## Getting Started
-To get started with this project, clone the repository and explore the codebase to understand the implementation details of the Gröbner basis algorithm and its applications in solving graph coloring problems.
+To get started with this project, clone the repository and open the Jupyter notebook to explore the implementation details.
 
 ```bash
 git clone https://github.com/himanshutg/Graph_Coloring.git
-cd graph_coloring
+jupyter notebook graph_coloring.ipynb
+```
